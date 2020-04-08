@@ -1,14 +1,28 @@
 {
-  "homepage": "https://akopadung.github.io/makecover/",
+  "homepage": "https://akopadung.github.io/test2/",
   "name": "test-cover",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.28",
+    "@fortawesome/free-solid-svg-icons": "^5.13.0",
+    "@fortawesome/react-fontawesome": "^0.1.9",
+    "@material-ui/core": "^4.9.9",
+    "@material/textfield": "^5.1.0",
+    "@progress/kendo-react-dropdowns": "^3.12.0",
     "cra-template": "1.0.3",
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-dropdown": "^1.7.0",
+    "react-dropdown-select": "^4.3.0",
+    "react-loader": "^2.4.7",
     "react-scripts": "3.4.1",
-    "tabletop": "^1.6.2"
+    "react-select": "^3.1.0",
+    "reactstrap": "^8.4.1",
+    "tabletop": "^1.6.2",
+    "typeface-lato": "0.0.75"
   },
   "scripts": {
     "predeploy": "npm run build",

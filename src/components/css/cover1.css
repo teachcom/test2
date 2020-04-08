@@ -1,0 +1,256 @@
+.App_logo {
+    position: absolute;
+    height: 14vh;
+    margin-left: 3vh;
+    margin-top: 3vh;
+    width: 12vh;
+    border-radius: 50%;
+    object-fit: contain;
+    box-shadow: 0px 5px rgba(255, 255, 255, 0.2);
+    opacity: .9;
+  }
+  .app_header{
+  text-align: right;
+  margin-left: 15vh;
+  max-width: 54vh;
+  }
+  
+  .app_header_2_1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 5vh;
+    width: 53vh;
+    height: 4vh;
+    font-size: 2.8vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    overflow: hidden;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+  }
+  .app_header_2_2 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 10vh;
+    width: 53vh;
+    height: 20vh;
+    font-size: 3.4vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    overflow: hidden;
+    align-items: center;
+  }
+  
+  .app_header_3_1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 2vh;
+    width: 53vh;
+    height: 4vh;
+    font-size: 2.8vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    overflow: hidden;
+    align-items: center;
+  }
+  .app_header_3_2 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 6.5vh;
+    width: 53vh;
+    height: 20vh;
+    font-size: 3.4vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    overflow: hidden;
+    align-items: center;
+  }
+  
+  .app_sub_1_1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 22vh; 
+    width: 51vh;
+    height: 9vh;
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    overflow: hidden;
+    text-align: right;
+  }
+  
+  .app_sub_2_1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 20vh; 
+    width: 51vh;
+    height: 9vh;
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    overflow: hidden;
+    text-align: right;
+  }
+  
+  .App_profile {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 43.4vh;
+    margin-top: 31vh;
+    width: 23vh;
+    height: 32vh;
+    border-radius: 8%;
+    object-fit: cover;
+    border: 0.5vh solid;
+    border-color: rgba(255, 227, 104, 0.5);
+  }
+  
+  .app_story1 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 23vh;
+    margin-top: 30.5vh;
+    width: 19vh;
+    height: 16.5vh;
+    border-radius: 2%;
+    object-fit: cover;
+    border: 0.5vh solid;
+    border-color: rgba(255, 218, 53, 0.3);
+    opacity: 0.6;
+  }
+  .app_story1_1 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 23vh;
+    margin-top: 48vh;
+    width: 19vh;
+    height: 14vh;
+    border-radius: 2%;
+    object-fit: cover;
+    border: 0.5vh solid;
+    border-color: rgba(255, 218, 53, 0.3);
+    opacity: 0.8;
+  }
+  
+  .app_story2 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 3vh;
+    margin-top: 28.5vh;
+    width: 19vh;
+    height: 13.5vh;
+    border-radius: 2%;
+    object-fit: cover;
+    border: 0.5vh solid;
+    border-color: rgba(255, 218, 53, 0.3);
+    opacity: 0.7;
+  }
+  
+  .app_story2_2 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 3vh;
+    margin-top: 43vh;
+    width: 19vh;
+    height: 19vh;
+    border-radius: 2%;
+    object-fit: cover;
+    border: 0.5vh solid;
+    border-color: rgba(255, 218, 53, 0.3);
+    opacity: 0.8;
+  }
+  
+  .app_a1 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 65vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 3.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    color: rgb(82, 68, 8);
+    text-shadow: 1px 2px rgba(255, 255, 255, 0.5);;
+  }
+  
+  .app_a2 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 70vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    color: rgb(82, 68, 8);
+    text-shadow: 1px 2px rgba(255, 255, 255, 0.5);;
+  }
+  .app_a3 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 74vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.2vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    color: rgb(82, 68, 8);
+    text-shadow: 1px 2px rgba(255, 255, 255, 0.5);;
+  }
+  
+  .app_a4 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 82vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }
+  .app_a5 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 85vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }
+  .app_a6 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 88vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }
+  
+  .app_a7 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 91vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }

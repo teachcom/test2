@@ -1,204 +1,6 @@
 .App {
   text-align: left;
 }
-
-.App_logo {
-  position: absolute;
-  height: 20vh;
-  pointer-events: none;
-  margin-left: 0vh;
-  margin-top: 0vh;
-  width: 20vh;
-  border-radius: 50%;
-}
-
-.App_header {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 20vh;
-  margin-top: 1.5vh;
-  max-width: 50vh;
-  height: 15vh;
-  font-size: 3.5vh;
-  font-weight: 700;
-  color: #FFFFFF;
-  overflow: hidden;
-}
-.app_head2 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 20vh;
-  margin-top: 21vh; 
-  max-width: 48vh;
-  height: 9vh;
-  font-size: 3vh;
-  font-weight: 700;
-  color: #FFFFFF;
-  overflow: hidden;
-  text-align: right;
-}
-
-.App_profile {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 43.5vh;
-  margin-top: 33vh;
-  width: 24vh;
-  height: 30vh;
-  border-radius: 8%;
-  object-fit: cover;
-  border: 0.5vh solid;
-  border-color: rgba(255, 218, 53, 0.5);
-}
-
-.app_story1 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 23vh;
-  margin-top: 34vh;
-  width: 19vh;
-  height: 13vh;
-  border-radius: 2%;
-  object-fit: cover;
-  border: 0.5vh solid;
-  border-color: rgba(255, 218, 53, 0.3);
-  opacity: 0.6;
-}
-.app_story1_1 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 23vh;
-  margin-top: 48vh;
-  width: 19vh;
-  height: 14vh;
-  border-radius: 2%;
-  object-fit: cover;
-  border: 0.5vh solid;
-  border-color: rgba(255, 218, 53, 0.3);
-  opacity: 0.8;
-}
-
-.app_story2 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 3vh;
-  margin-top: 31vh;
-  width: 19vh;
-  height: 11vh;
-  border-radius: 2%;
-  object-fit: cover;
-  border: 0.5vh solid;
-  border-color: rgba(255, 218, 53, 0.3);
-  opacity: 0.7;
-}
-
-.app_story2_2 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 3vh;
-  margin-top: 43vh;
-  width: 19vh;
-  height: 19vh;
-  border-radius: 2%;
-  object-fit: cover;
-  border: 0.5vh solid;
-  border-color: rgba(255, 218, 53, 0.3);
-  opacity: 0.8;
-}
-
-.app_a1 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 5vh;
-  margin-top: 65vh;
-  width: 60vh;
-  max-height: 20vh;
-  font-size: 3.5vh;
-  font-weight: 700;
-  color: #FFFFFF;
-  text-align: center;
-}
-.app_a2 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 5vh;
-  margin-top: 70vh;
-  width: 60vh;
-  max-height: 20vh;
-  font-size: 2.5vh;
-  font-weight: 700;
-  color: #FFFFFF;
-  text-align: center;
-}
-.app_a3 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 5vh;
-  margin-top: 74vh;
-  width: 60vh;
-  max-height: 20vh;
-  font-size: 2.2vh;
-  font-weight: 700;
-  color: #FFFFFF;
-  text-align: center;
-}
-
-.app_a4 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 5vh;
-  margin-top: 82vh;
-  width: 60vh;
-  max-height: 20vh;
-  font-size: 2.4vh;
-  font-weight: 700;
-  color: #FFFFFF;
-  text-align: center;
-}
-.app_a5 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 5vh;
-  margin-top: 85vh;
-  width: 60vh;
-  max-height: 20vh;
-  font-size: 2.4vh;
-  font-weight: 700;
-  color: #FFFFFF;
-  text-align: center;
-}
-.app_a6 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 5vh;
-  margin-top: 88vh;
-  width: 60vh;
-  max-height: 20vh;
-  font-size: 2.4vh;
-  font-weight: 700;
-  color: #FFFFFF;
-  text-align: center;
-}
-
-.app_a7 {
-  position: absolute;
-  pointer-events: none;
-  margin-left: 5vh;
-  margin-top: 91vh;
-  width: 60vh;
-  max-height: 20vh;
-  font-size: 2.4vh;
-  font-weight: 700;
-  color: #FFFFFF;
-  text-align: center;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -208,6 +10,15 @@
   }
 }
 
+@font-face {
+  font-family: 'Kanit';
+  src: local('Kanit'), url('./fonts/Kanit-Regular.ttf') format('truetype');
+
+}
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato'), url('./fonts/Lato-Regular.ttf') format('truetype');
+}
 
 .page {
   width: 21cm;
@@ -215,13 +26,12 @@
   display: block;
   margin: 0 auto;
   margin-bottom: 0.5cm;
-  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
-
-  background-image: url("cover01.jpg");
+  /* box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+  background-image: url("cover01.jpg");*/
   background-repeat: no-repeat;
   background-size: contain;
-
-  max-height: 100vh;
+  max-height: 100.5vh;
+  font-family: 'Kanit';
 }
 
 @media print {
@@ -230,11 +40,5 @@
       -webkit-print-color-adjust: exact; 
       margin: 0;
       box-shadow: 0;
-  }
-}
-
-@media print {
-  .vendorListHeading th {
-      color: red !important;
   }
 }

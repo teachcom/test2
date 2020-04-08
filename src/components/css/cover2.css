@@ -1,0 +1,311 @@
+.App_logo2 {
+    position: absolute;
+    height: 14vh;
+    margin-left: 2vh;
+    margin-top: 3vh;
+    width: 13vh;
+    border-radius: 50%;
+    object-fit: contain;
+    background-color:rgba(255, 173, 215, 0.3);
+    border: 1vh solid;
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .app_header2{
+    position: absolute;
+  margin-left: 19vh;
+  max-width: 50vh;
+  }
+
+  .app_header2_bg0{
+    position: absolute;
+    text-align: right;
+    margin-top: 2vh;
+    margin-left: 18vh;
+    width: 52vh;
+    height: 20vh;
+    opacity: 0.3;
+    }
+
+    .app_header2_bg1{
+      position: absolute;
+      text-align: right;
+      margin-top: 2vh;
+      margin-left: 18vh;
+      width: 52vh;
+      height: 20vh;
+      opacity: 0.9;
+      }
+
+    .app_header2_bg2{
+      position: absolute;
+      text-align: right;
+      margin-top: 14vh;
+      margin-left: 18vh;
+      width: 52vh;
+      height: 0.5vh;
+      }
+  .app_header2_2_1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 4vh;
+    width: 49vh;
+    height: 3vh;
+    font-size: 2.8vh;
+    font-weight: 700;
+    color: rgb(80, 19, 44);
+    text-shadow: 1px 1px rgba(163, 47, 105, 0.3);
+  text-align: right; 
+  }
+  .app_header2_2_2 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 9vh;
+    width: 49vh;
+    height: 20vh;
+    font-size: 3.4vh;
+    font-weight: 700;
+    color: rgb(124, 19, 63);
+    text-shadow: 1px 2px rgba(182, 72, 136, 0.8);
+    overflow: hidden;
+    text-align: right; 
+  }
+  .app_header2_3_1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 3vh;
+    width: 50vh;
+    height: 3vh;
+    font-size: 2vh;
+    font-weight: 700;
+    color: rgb(80, 19, 44);
+    text-shadow: 1px 1px rgba(163, 47, 105, 0.3);
+    overflow: hidden;
+    text-align: right; 
+  }
+  .app_header2_3_2 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 7vh;
+    width: 49vh;
+    height: 20vh;
+    font-size: 2vh;
+    font-weight: 700;
+    color: rgb(124, 19, 63);
+    text-shadow: 1px 1px rgba(182, 72, 136, 0.8);
+    overflow: hidden;
+    text-align: right; 
+  }
+  .app_sub2_1_1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 16vh; 
+    width: 49vh;
+    height: 9vh;
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px rgba(146, 48, 97, 0.6);
+    overflow: hidden;
+    text-align: right;
+  }
+  
+  .app_sub2_2_1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 15vh; 
+    width: 49vh;
+    height: 9vh;
+    font-size: 2.2vh;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px rgba(146, 48, 97, 0.6);
+    overflow: hidden;
+    text-align: right;
+  }
+  
+  .App_profile2 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 16vh;
+    margin-top: 11vh;
+    width: 52vh;
+    height: 52vh;
+    object-fit: cover;
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  }
+  
+  .app_story21 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 10.2vh;
+    margin-top: 47.7vh;
+    width: 31.5vh;
+    height: 31.5vh;
+    object-fit: cover;
+    opacity: 0.8;
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  }
+  .app_story22 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: -5.5vh;
+    margin-top: 64vh;
+    width: 30.5vh;
+    height: 30.5vh;
+    object-fit: cover;
+    opacity: 0.7;
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 18% 65%, 18% 32%);
+  }
+  
+  .app_story23 {
+
+    position: absolute;
+    pointer-events: none;
+    margin-left: -0.5vh;
+    margin-top: -0.5vh;
+    width: 42vh;
+    height: 37vh;
+    object-fit: cover;
+    opacity: 0.6;
+    clip-path: polygon(74% 0, 100% 29.5%, 38% 100%, 0 56.5%, 0 0);
+  }
+  
+  .app_story24 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: -12.5vh;
+    margin-top: 22.2vh;
+    width: 50vh;
+    height: 50vh;
+    object-fit: cover;
+    opacity: 0.4;
+    clip-path: polygon(25% 0, 25% 100%, 75% 50%);
+  }
+
+
+  .app_middle_bg{
+    position: absolute;
+    text-align: right;
+    margin-top: 56vh;
+    margin-left: 0;
+    width: 71vh;
+    height: 18vh;
+    }
+  .app_a21 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 58vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 3.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+  }
+  
+  .app_a22 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 64vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+  }
+  .app_a23 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 68vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.2vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+  }
+  
+
+  .app_bottom_bg1{
+    position: absolute;
+    text-align: right;
+    margin-top: 75vh;
+    margin-left: 1vh;
+    width: 70vh;
+    height: 26vh;
+    }
+  
+    .app_bottom_bg2{
+      position: absolute;
+      text-align: right;
+      margin-top: 80vh;
+      margin-left: 5vh;
+      width: 61vh;
+      height: 18vh;
+      }
+  
+      
+  .app_a24 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 82vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(124, 19, 63);
+    text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+    text-align: center;
+  }
+  .app_a25 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 86.5vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(124, 19, 63);
+    text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+    text-align: center;
+  }
+  .app_a26 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 90vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(124, 19, 63);
+    text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+    text-align: center;
+  }
+  
+  .app_a27 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 93vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(124, 19, 63);
+    text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+    text-align: center;
+  }
