@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/test2/static/css/main.08a84b6d.chunk.css",
+    "main.js": "/test2/static/js/main.4bbbf5d8.chunk.js",
+    "main.js.map": "/test2/static/js/main.4bbbf5d8.chunk.js.map",
+    "runtime-main.js": "/test2/static/js/runtime-main.293b9844.js",
+    "runtime-main.js.map": "/test2/static/js/runtime-main.293b9844.js.map",
+    "static/css/2.3ab7218d.chunk.css": "/test2/static/css/2.3ab7218d.chunk.css",
+    "static/js/2.febf8e57.chunk.js": "/test2/static/js/2.febf8e57.chunk.js",
+    "static/js/2.febf8e57.chunk.js.map": "/test2/static/js/2.febf8e57.chunk.js.map",
+    "index.html": "/test2/index.html",
+    "precache-manifest.af117344336f54ed5d1ee3efa1567c28.js": "/test2/precache-manifest.af117344336f54ed5d1ee3efa1567c28.js",
+    "service-worker.js": "/test2/service-worker.js",
+    "static/css/2.3ab7218d.chunk.css.map": "/test2/static/css/2.3ab7218d.chunk.css.map",
+    "static/css/main.08a84b6d.chunk.css.map": "/test2/static/css/main.08a84b6d.chunk.css.map",
+    "static/js/2.febf8e57.chunk.js.LICENSE.txt": "/test2/static/js/2.febf8e57.chunk.js.LICENSE.txt",
+    "static/media/Kanit-Regular.ttf": "/test2/static/media/Kanit-Regular.a82c4c3b.ttf",
+    "static/media/Lato-Regular.ttf": "/test2/static/media/Lato-Regular.2d36b1a9.ttf",
+    "static/media/chome_ic.png": "/test2/static/media/chome_ic.c8039f52.png",
+    "static/media/cover01.jpg": "/test2/static/media/cover01.07c43942.jpg",
+    "static/media/cover02.jpg": "/test2/static/media/cover02.b59c979f.jpg",
+    "static/media/cover11.jpg": "/test2/static/media/cover11.850ad3b2.jpg",
+    "static/media/cover11_bottomB.png": "/test2/static/media/cover11_bottomB.d19263ce.png",
+    "static/media/cover11_middle.png": "/test2/static/media/cover11_middle.01229ca1.png",
+    "static/media/cover21.png": "/test2/static/media/cover21.074630b9.png",
+    "static/media/cover21_middle.png": "/test2/static/media/cover21_middle.c07ed96c.png",
+    "static/media/cover21_top.png": "/test2/static/media/cover21_top.42d38943.png",
+    "static/media/forms.jpg": "/test2/static/media/forms.5eb9e499.jpg",
+    "static/media/index.css": "/test2/static/media/lato-latin-900italic.bd86aaa7.woff2",
+    "static/media/logo.svg": "/test2/static/media/logo.5d5d9eef.svg",
+    "static/media/print_the_cover.gif": "/test2/static/media/print_the_cover.520fbd02.gif",
+    "static/media/setup_1.png": "/test2/static/media/setup_1.162633ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.293b9844.js",
+    "static/css/2.3ab7218d.chunk.css",
+    "static/js/2.febf8e57.chunk.js",
+    "static/css/main.08a84b6d.chunk.css",
+    "static/js/main.4bbbf5d8.chunk.js"
+  ]
+}
